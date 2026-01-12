@@ -1,33 +1,31 @@
-## Feel free to reach out to me for smart contract audits. I am also available for private audits and group engagements.
+# Wojack - Smart Contract Security Researcher
 
-X: [Wojack0x0](https://x.com/Wojack0x0)\
-Discord: Wojack0x0\
-Gmail: kkgg123600@gmail.com\
-Github: [Wojack](https://github.com/kkgg123600)
+> **Ranked Top 120 on [Hackenproof](https://hackenproof.com/hackers/Wojack)** | **Multilingual Auditor (Solidity, Rust, Move)**
 
-Code4rena: [Wojack](https://code4rena.com/@Wojack)\
-Sherlock: [Wojack](https://audits.sherlock.xyz/watson/Wojack)\
-CodeHawks: [Wojack0x0](https://profiles.cyfrin.io/u/wojack0x0)\
-Cantina: [Kkgg123600](https://cantina.xyz/u/Kkgg123600)\
-Hackenproof: [Wojack](https://hackenproof.com/hackers/Wojack)
+## 📬 Contact & Profiles
+- **X (Twitter):** [@Wojack0x0](https://x.com/Wojack0x0)
+- **Discord:** Wojack0x0
+- **Email:** kkgg123600@gmail.com
+- **GitHub:** [Wojack](https://github.com/kkgg123600)
 
-## Introduction
+| Platform | Profile |
+|----------|---------|
+| **Code4rena** | [Wojack](https://code4rena.com/@Wojack) |
+| **Sherlock** | [Wojack](https://audits.sherlock.xyz/watson/Wojack) |
+| **Hackenproof** | [Wojack](https://hackenproof.com/hackers/Wojack) |
+| **Cantina** | [Kkgg123600](https://cantina.xyz/u/Kkgg123600) |
+| **CodeHawks** | [Wojack0x0](https://profiles.cyfrin.io/u/wojack0x0) |
 
-Hi, I am a Smart Contract Security Researcher interested in integrating and securing both emerging & established blockchain protocols. I audit smart contracts written in Solidity/Vyper for EVM-based chains, Rust for CosmWasm, and Move for Sui & Aptos protocols. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@Wojack), [cantina](https://cantina.xyz/u/Kkgg123600), [sherlock](https://audits.sherlock.xyz/watson/Wojack), [codehawks](https://profiles.cyfrin.io/u/Wojack), & [hackenproof](https://hackenproof.com/hackers/Wojack).
+---
 
-I am currently ranked #116 (all time) accross [hackenproof](https://hackenproof.com/hackers/Wojack). _(warning: this info can be slightly outdated)_.
+## 👨‍💻 About Me
 
-I have completed security audits for 40+ protocols across public competitions.
+I am a security researcher with a deep focus on **Invariant Analysis** and securing complex DeFi primitives. My expertise spans across multiple ecosystems:
+- **EVM:** Solidity, Vyper (DeFi, AMMs, Lending).
+- **Cosmos:** Rust/CosmWasm.
+- **Sui/Aptos:** Move.
 
-## Organizations
-
-Various organizations I have worked with:
-
-- [Code4rena](#code4rena)
-- [Sherlock](#sherlock)
-- [CodeHawks](#codehawks)
-- [Cantina](#cantina)
-- [Hackenproof](#hackenproof)
+I have completed security audits for **40+ protocols**, uncovering critical vulnerabilities in high-profile projects like **1inch** and **OpenEden**. My approach combines manual review with a strong emphasis on breaking core protocol invariants.
 
 ## Portfolio
 

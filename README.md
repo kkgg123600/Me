@@ -25,7 +25,7 @@ I am a security researcher with a deep focus on **Invariant Analysis** and secur
 - **Cosmos:** Rust/CosmWasm.
 - **Sui/Aptos:** Move.
 
-I have completed security audits for **40+ protocols**, uncovering critical vulnerabilities in high-profile projects like **1inch** and **OpenEden**. My approach combines manual review with a strong emphasis on breaking core protocol invariants.
+I have completed security audits for **40+ protocols**, uncovering critical vulnerabilities in high-profile projects like **1inch** and **OpenEden**. My approach combines manual review Using Ai with a strong emphasis on breaking core protocol invariants.
 
 ## Portfolio
 

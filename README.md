@@ -13,7 +13,6 @@
 | **Code4rena** | [Wojack](https://code4rena.com/@Wojack) |
 | **Sherlock** | [Wojack](https://audits.sherlock.xyz/watson/Wojack) |
 | **Hackenproof** | [Wojack](https://hackenproof.com/hackers/Wojack) |
-| **Cantina** | [Kkgg123600](https://cantina.xyz/u/Kkgg123600) |
 | **CodeHawks** | [Wojack0x0](https://profiles.cyfrin.io/u/wojack0x0) |
 
 ---
@@ -21,6 +20,7 @@
 ## 👨‍💻 About Me
 
 I am a security researcher with a deep focus on **Invariant Analysis** and securing complex DeFi primitives. My expertise spans across multiple ecosystems:
+
 - **EVM:** Solidity, Vyper (DeFi, AMMs, Lending).
 - **Cosmos:** Rust/CosmWasm.
 - **Sui/Aptos:** Move.
@@ -49,14 +49,16 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Reflector V3                       | 2025 | Rust for CosmWasm                  | 1 High 1 Medium           |
 | Covenant                       | 2025 | Solidity                  | 1 Low            |
 | Hybra Finance                       | 2025 | Solidity                  | 1 Medium 3 Low            |
+| Flare - FAsset                       | 2025 | Solidity , DeFi | 1 Low            |
 
 ### [Sherlock](https://audits.sherlock.xyz/watson/Wojack)
 
 | Contest                       | Date     | Keywords   | Findings             |
 | ----------------------------- | -------- | ----------------------- | -------- |
-| Monolith Stablecoin Factory                       |  2025 | Solidity                  | 1 High            |
-| Index Fun Order Book                       |  2025 | Solidity                  | 1 Medium            |
-| stNXM by EaseDeFi                       |  2025 | Solidity                  | 1 High 2 Medium            |
+| Hotstuff  (Private Contest)                    |  2026 | Solidity , DeFi                | 1 High            |
+| Monolith Stablecoin Factory                       |  2025 | Solidity , stablecoin                 | 1 High            |
+| Index Fun Order Book                       |  2025 | Solidity , prediction market                 | 1 Medium            |
+| stNXM by EaseDeFi                       |  2025 | Solidity , DeFi                 | 1 High 2 Medium            |
 
 ### [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)
 
@@ -66,5 +68,9 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | First Flight #53: RebateFi                       |  2025 | Solidity                  | 2 High 1 Medium 2 Low  🥈 Second place         |
 | First Flight #52: BriVault                       |  2025 | Solidity                  | 6 High  🥇 First place           |
 | First Flight #51: Company Simulator                       |  2025 | Vyper, Defi                  | 3 High 1 Medium  🥈 Second place         |
-| First Flight 50: Raisebox Faucet                       |  2025 | Solidity                  | 2 High 1 Medium            |
+| First Flight #50: Raisebox Faucet                       |  2025 | Solidity                  | 2 High 1 Medium            |
 | First Flight #49: Bid Beasts                       |  2025 | Solidity, NFT                  | 1 High 3 Medium 1 Low           |
+| First Flight #48: One Shot: Reloaded                       |  2025 | Move, Aptos, NFT                  | 1 High          |
+| First Flight #47: Aptos Pizza Drop                       |  2025 | Move, Aptos, GameFi                  | 1 High          |
+| First Flight #45: Last Man Standing                       |  2025 | Solidity , GameFi                 | 2 Medium  2 Low          |
+| First Flight #38: Rock Paper Scissors                       |  2025 | Solidity , DApp                  | 1 Medium  1 Low          |

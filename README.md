@@ -1,6 +1,6 @@
 # Wojack - Smart Contract Security Researcher
 
-**Ranked Top 120 on [Hackenproof](https://hackenproof.com/hackers/Wojack)** | **Multilingual Auditor (Solidity, Rust, Move)**
+**Ranked Top 120 on [Hackenproof](https://hackenproof.com/hackers/Wojack)**  | **Ranked Top 18 on [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)** | **Multilingual Auditor (Solidity, Rust, Move)**
 
 ## 📬 Contact & Profiles
 - **X (Twitter):** [@Wojack0x0](https://x.com/Wojack0x0)

@@ -45,7 +45,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Reliq Smart Contract Audit Contest                       |  2025 | Solidity                  | 1 High 1 Low            |
 | Rain Smart Contract Audit Contest                       |  2025 | Solidity                  | 2 Critical 1 High 2 Medium          |
 | OpenEden USDO Express Smart Contract Audit Contest                       |  2025 | Solidity                  | 1 Low            |
-| SuiDeX Audit Contest                       |  2025 | Move, Sui                  | 1 Critical            |
+| SuiDeX Audit Contest                       |  2025 | Move, Sui                  | 2 Critical            |
 | OpenEden Smart Contract Audit Contest                       |  2025 | Solidity                  | 1 Medium            |
 
 ### [Code4rena](https://code4rena.com/@Wojack)
@@ -63,7 +63,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings             |
 | ----------------------------- | -------- | ----------------------- | -------- |
-| Hotstuff  (Private Contest)                    |  2026 | Solidity , DeFi                | 1 High            |
+| Hotstuff  (Private Contest)                    |  2026 | Solidity , DeFi                | 2 High            |
 | Monolith Stablecoin Factory                       |  2025 | Solidity , stablecoin                 | 1 High            |
 | Index Fun Order Book                       |  2025 | Solidity , prediction market                 | 1 Medium            |
 | stNXM by EaseDeFi                       |  2025 | Solidity , DeFi                 | 1 High 2 Medium            |

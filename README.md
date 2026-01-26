@@ -64,7 +64,6 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Contest                       | Date     | Keywords   | Findings             |
 | ----------------------------- | -------- | ----------------------- | -------- |
 | Hotstuff  (Private Contest)                    |  2026 | Solidity , DeFi                | 2 High            |
-| Monolith Stablecoin Factory                       |  2025 | Solidity , stablecoin                 | 1 High            |
 | Index Fun Order Book                       |  2025 | Solidity , prediction market                 | 1 Medium            |
 | stNXM by EaseDeFi                       |  2025 | Solidity , DeFi                 | 1 High 2 Medium            |
 

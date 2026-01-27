@@ -42,11 +42,11 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Contest                       | Date     | Keywords   | Findings             |
 | ----------------------------- | -------- | ----------------------- | -------- |
 | 1inch Aqua Bug bounty                      |  2025 | Solidity                  | 1 Medium            |
-| R*** Smart Contract Audit Contest                       |  2025 | Solidity                  | 1 High 1 Low            |
-| R*** Smart Contract Audit Contest                       |  2025 | Solidity                  | 2 Critical 1 High 2 Medium          |
-| O******* *** ****** Smart Contract Audit Contest                       |  2025 | Solidity                  | 1 Low            |
-| S***** Audit Contest                       |  2025 | Move, Sui                  | 2 Critical            |
-| O******** Smart Contract Audit Contest                       |  2025 | Solidity                  | 1 Medium            |
+| R*** Smart Contract Audit                        |  2025 | Solidity                  | 1 High 1 Low            |
+| R*** Smart Contract Audit                        |  2025 | Solidity                  | 2 Critical 1 High 2 Medium          |
+| O******* *** ****** Smart Contract Audit                        |  2025 | Solidity                  | 1 Low            |
+| S***** Audit                        |  2025 | Move, Sui                  | 2 Critical            |
+| O******** Smart Contract Audit                        |  2025 | Solidity                  | 1 Medium            |
 
 ### [Code4rena](https://code4rena.com/@Wojack)
 

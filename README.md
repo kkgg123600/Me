@@ -54,6 +54,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | ----------------------------- | -------- | ----------------------- | -------- |
 | Brix Money                       | 2025 | Solidity                  | 1 Medium 5 Low            |
 | SukukFi                       | 2025 | Solidity                  | 1 Medium 1 Low            |
+| Garden                       | 2025 | Solidity , bridge | 1 Low            |
 | Reflector V3                       | 2025 | Rust for CosmWasm                  | 1 High 1 Medium           |
 | Covenant                       | 2025 | Solidity                  | 1 Low            |
 | Hybra Finance                       | 2025 | Solidity                  | 1 Medium 3 Low            |

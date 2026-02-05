@@ -21,7 +21,7 @@
 
 I am a security researcher with a deep focus on **Invariant Analysis** and securing complex DeFi primitives. My expertise spans across multiple ecosystems:
 
-- **Solidity** : EVM (DeFi, AMMs, Lending).
+- **Solidity** : EVM (DeFi, AMMs, Lending, Bridge, Options, etc).
 - **Rust** : /CosmWasm.
 - **Move** : Sui/Aptos.
 - **Python** : Vyper

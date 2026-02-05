@@ -21,9 +21,10 @@
 
 I am a security researcher with a deep focus on **Invariant Analysis** and securing complex DeFi primitives. My expertise spans across multiple ecosystems:
 
-- **EVM:** Solidity, Vyper (DeFi, AMMs, Lending).
-- **Cosmos:** Rust/CosmWasm.
-- **Sui/Aptos:** Move.
+- **Solidity** : EVM (DeFi, AMMs, Lending).
+- **Rust** : /CosmWasm.
+- **Move** : Sui/Aptos.
+- **Python** : Vyper
 
 I have completed security audits for **40+ protocols**, uncovering critical vulnerabilities in high-profile projects like **1inch** and **OpenEden**. My approach combines manual review by Using Ai with a strong emphasis on breaking core protocol invariants.
 

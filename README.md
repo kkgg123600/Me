@@ -30,7 +30,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 ## Portfolio
 
-## Competitions as a judge
+### participant as a Triager
 
 | Project | Date |
 |-------|-------|

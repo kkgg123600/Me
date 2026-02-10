@@ -3,6 +3,7 @@
 **Ranked Top 120  (all time) on [Hackenproof](https://hackenproof.com/hackers/Wojack)**  | **Ranked Top 18  (all time) on [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)** | **Multilingual Auditor (Solidity, Rust, Move, Vyper)**
 
 ## 📬 Contact & Profiles
+
 - **X (Twitter):** [@Wojack0x0](https://x.com/Wojack0x0)
 - **Discord:** Wojack0x0
 - **Email:** kkgg123600@gmail.com

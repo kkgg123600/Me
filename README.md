@@ -53,34 +53,34 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 ### [Code4rena](https://code4rena.com/@Wojack)
 
-| Contest                       | Date     | Keywords   | Findings             |
-| ----------------------------- | -------- | ----------------------- | -------- |
-| Brix Money                       | 2025 | Solidity                  | 1 Medium 5 Low            |
-| SukukFi                       | 2025 | Solidity                  | 1 Medium 1 Low            |
-| Garden                       | 2025 | Solidity , bridge | 1 Low            |
-| Reflector V3                       | 2025 | Rust for CosmWasm                  | 1 High 1 Medium           |
-| Covenant                       | 2025 | Solidity                  | 1 Low            |
-| Hybra Finance                       | 2025 | Solidity                  | 1 Medium 3 Low            |
-| Flare - FAsset                       | 2025 | Solidity , DeFi | 1 Low            |
+| Contest                       | Date     | Keywords   | Findings             | Report Link |
+| ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| Brix Money                    | 2025 | Solidity          | 1 Medium 5 Low | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
+| SukukFi                       | 2025 | Solidity          | 1 Medium 1 Low | [View Report](https://code4rena.com/@Wojack) |
+| Garden                        | 2025 | Solidity , bridge | 1 Low          | [View Report](https://code4rena.com/@Wojack) |
+| Reflector V3                  | 2025 | Rust for CosmWasm | 1 High 1 Medium| [View Report](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-110) |
+| Covenant                      | 2025 | Solidity          | 1 Low          | [View Report](https://code4rena.com/@Wojack) |
+| Hybra Finance                 | 2025 | Solidity          | 1 Medium 3 Low | [View Report](http://code4rena.com/audits/2025-10-hybra-finance/submissions/S-221) |
+| Flare - FAsset                | 2025 | Solidity , DeFi | 1 Low            | [View Report](https://code4rena.com/@Wojack) |
 
 ### [Sherlock](https://audits.sherlock.xyz/watson/Wojack)
 
-| Contest                       | Date     | Keywords   | Findings             |
-| ----------------------------- | -------- | ----------------------- | -------- |
-| Index Fun Order Book                       |  2025 | Solidity , prediction market                 | 1 Medium            |
-| stNXM by EaseDeFi                       |  2025 | Solidity , DeFi                 | 1 High 2 Medium            |
+| Contest                       | Date     | Keywords   | Findings              | Report Link |
+| ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| Index Fun Order Book          |  2025 | Solidity , prediction market| 1 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
+| stNXM by EaseDeFi             |  2025 | Solidity , DeFi            | 1 High 2 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 
 ### [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)
 
-| Contest                       | Date     | Keywords   | Findings             |
-| ----------------------------- | -------- | ----------------------- | -------- |
-| First Flight #54: Token-0x                       |  2025 | Solidity, Defi                  | 4 High 1 Medium  🥇 First place          |
-| First Flight #53: RebateFi                       |  2025 | Solidity                  | 2 High 1 Medium 2 Low  🥈 Second place         |
-| First Flight #52: BriVault                       |  2025 | Solidity                  | 6 High  🥇 First place           |
-| First Flight #51: Company Simulator                       |  2025 | Vyper, Defi                  | 3 High 1 Medium  🥈 Second place         |
-| First Flight #50: Raisebox Faucet                       |  2025 | Solidity                  | 2 High 1 Medium            |
-| First Flight #49: Bid Beasts                       |  2025 | Solidity, NFT                  | 1 High 3 Medium 1 Low           |
-| First Flight #48: One Shot: Reloaded                       |  2025 | Move, Aptos, NFT                  | 1 High          |
-| First Flight #47: Aptos Pizza Drop                       |  2025 | Move, Aptos, GameFi                  | 1 High          |
-| First Flight #45: Last Man Standing                       |  2025 | Solidity , GameFi                 | 2 Medium  2 Low          |
-| First Flight #38: Rock Paper Scissors                       |  2025 | Solidity , DApp                  | 1 Medium  1 Low          |
+| Contest                       | Date     | Keywords   | Findings             | Report Link |
+| ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| First Flight #54: Token-0x                       |  2025 | Solidity, Defi     | 4 High 1 Medium  🥇 First place   | [View Report](https://github.com/kkgg123600/My-portfolio/tree/main/My_Valid_Reports_on_CodeHawks/%5BSolidity%5DToken-0x%20First%20Flight%20%2354) |
+| First Flight #53: RebateFi                       |  2025 | Solidity           | 2 High 1 Medium 2 Low  🥈 Second place | [View Report](https://github.com/kkgg123600/My-portfolio/tree/main/My_Valid_Reports_on_CodeHawks/%5BSolidity%5DRebateFi%20Hook%20First%20Flight%20%2353) |
+| First Flight #52: BriVault                       |  2025 | Solidity           | 6 High  🥇 First place   | [View Report](https://github.com/kkgg123600/My-portfolio/tree/main/My_Valid_Reports_on_CodeHawks/%5BSolidity%5DBriVault%20First%20Flight%20%2352) |
+| First Flight #51: Company Simulator              |  2025 | Vyper, Defi        | 3 High 1 Medium  🥈 Second place  | [View Report](https://github.com/kkgg123600/My-portfolio/tree/main/My_Valid_Reports_on_CodeHawks/%5BVyper%5DCompany%20Simulator%20First%20Flight%20%2351) |
+| First Flight #50: Raisebox Faucet                |  2025 | Solidity           | 2 High 1 Medium      | [View Report](https://github.com/kkgg123600/My-portfolio/tree/main/My_Valid_Reports_on_CodeHawks/%5BSolidity%5DRaisebox%20Faucet%20First%20Flight%20%2350) |
+| First Flight #49: Bid Beasts                     |  2025 | Solidity, NFT      | 1 High 3 Medium 1 Low  | [View Report](https://github.com/kkgg123600/My-portfolio/tree/main/My_Valid_Reports_on_CodeHawks/%5BSolidity%5DBid%20Beasts%20First%20Flight%20%2349) |
+| First Flight #48: One Shot: Reloaded             |  2025 | Move, Aptos, NFT   | 1 High    | [View Report](ADD_LINK_HERE) |
+| First Flight #47: Aptos Pizza Drop               |  2025 | Move, Aptos, GameFi| 1 High    | [View Report](https://github.com/kkgg123600/My-portfolio/tree/main/My_Valid_Reports_on_CodeHawks/%5BMove%5DAptos%20Pizza%20Drop%20First%20Flight%20%2347) |
+| First Flight #45: Last Man Standing              |  2025 | Solidity , GameFi  | 2 Medium  2 Low  |
+| First Flight #38: Rock Paper Scissors            |  2025 | Solidity , DApp    | 1 Medium  1 Low  |

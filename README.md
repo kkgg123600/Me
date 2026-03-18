@@ -7,6 +7,7 @@
 - **X (Twitter):** [@Wojack0x0](https://x.com/Wojack0x0)
 - **Linkedin:** [@Wojack0x0](https://www.linkedin.com/in/wojack0x0/)
 - **Discord:** Wojack0x0
+- **Telegram:** Wojack0x0
 - **Email:** kkgg123600@gmail.com
 - **GitHub:** [Wojack](https://github.com/kkgg123600)
 
@@ -55,6 +56,8 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| OLAS                          | 2026 | Solidity          | 2 High   1 Low | [View Report](https://code4rena.com/@Wojack) |
+| Rujira                        | 2026 | Rust for CosmWasm | 1 Medium 1 Low | [View Report](https://code4rena.com/@Wojack) |
 | Brix Money                    | 2025 | Solidity          | 1 Medium 5 Low | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
 | SukukFi                       | 2025 | Solidity          | 1 Medium 1 Low | [View Report](https://code4rena.com/@Wojack) |
 | Garden                        | 2025 | Solidity , bridge | 1 Low          | [View Report](https://code4rena.com/@Wojack) |
@@ -67,7 +70,8 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings              | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| Index Fun Order Book          |  2025 | Solidity , prediction market| 1 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
+| Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High   | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
+| Index Fun Order Book          |  2025 | Solidity ,prediction market| 1 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 | stNXM by EaseDeFi             |  2025 | Solidity , DeFi            | 1 High 2 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 
 ### [CodeHawks](https://profiles.cyfrin.io/u/wojack0x0)

@@ -56,8 +56,8 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| OLAS                          | 2026 | Solidity          | 2 High         | Not yet published |
-| Rujira                        | 2026 | Rust for CosmWasm | 1 Medium 1 Low | Not yet published |
+| OLAS                          | 2026 | Solidity          | 2 High         | Findings not yet public |
+| Rujira                        | 2026 | Rust for CosmWasm | 1 Medium 1 Low | Findings not yet public |
 | Brix Money                    | 2025 | Solidity          | 1 Medium 5 Low | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
 | SukukFi                       | 2025 | Solidity          | 1 Medium 1 Low | [View Report](https://code4rena.com/@Wojack) |
 | Garden                        | 2025 | Solidity , bridge | 1 Low          | [View Report](https://code4rena.com/@Wojack) |
@@ -70,7 +70,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings              | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High   | Not yet published |
+| Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High   | Findings not yet public |
 | Hotstuff                      |  2026 | Solidity , bridge contract | private  | not publicly available |
 | Aave V4                       |  2026 | Solidity                   | 0        | No report was accepted in this competition for any participant, but I was given $555 as an exceptional bonus for the quality of the submitted reports and the suggested improvements included within them. |
 | Index Fun Order Book          |  2025 | Solidity ,prediction market| 1 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |

@@ -72,7 +72,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
 | Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High   | Findings not yet public |
 | Hotstuff                      |  2026 | Solidity , bridge contract | private  | not publicly available |
-| Aave V4                       |  2026 | Solidity                   | 0        | Exceptional Quality Bonus ($555) awarded for high-value architectural improvement reports. |
+| Aave V4                       |  2026 | Solidity                   | Bonus    | Exceptional Quality Bonus ($555) awarded for high-value architectural improvement reports. |
 | Index Fun Order Book          |  2025 | Solidity ,prediction market| 1 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 | stNXM by EaseDeFi             |  2025 | Solidity , DeFi            | 1 High 2 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 

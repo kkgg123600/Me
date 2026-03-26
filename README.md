@@ -31,6 +31,10 @@ I am a security researcher with a deep focus on **Invariant Analysis** and secur
 
 I have completed security audits for **40+ protocols**, uncovering critical vulnerabilities in high-profile projects like **1inch** and **OpenEden**. My approach combines manual review by Using Ai with a strong emphasis on breaking core protocol invariants.
 
+#### CURRENT PROFESSIONAL DEVELOPMENT
+
+* **Formal Verification:** Actively upskilling in Formal Verification writing mathematical specs and invariants using **Certora CVL**.
+
 ## Portfolio
 
 ### participant as a Triager
@@ -58,7 +62,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
 | OLAS                          | 2026 | Solidity          | 2 High         | Findings not yet public |
 | Rujira                        | 2026 | Rust for CosmWasm | 1 Medium 1 Low | Findings not yet public |
-| Brix Money                    | 2025 | Solidity          | 1 Medium 5 Low | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
+| Brix Money                    | 2025 | Solidity          | 1 Medium 4 Low | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
 | SukukFi                       | 2025 | Solidity          | 1 Medium 1 Low | [View Report](https://code4rena.com/@Wojack) |
 | Garden                        | 2025 | Solidity , bridge | 1 Low          | [View Report](https://code4rena.com/@Wojack) |
 | Reflector V3                  | 2025 | Rust for CosmWasm | 1 High 1 Medium| [View Report](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-110) |

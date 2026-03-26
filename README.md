@@ -43,14 +43,14 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 ### [hackenproof](https://hackenproof.com/hackers/Wojack)
 
-| Contest                       | Date     | Keywords   | Findings             |
-| ----------------------------- | -------- | ----------------------- | -------- |
-| 1inch Aqua Bug bounty                      |  2025 | Solidity                  | 1 Medium            |
-| R*** Smart Contract Audit                        |  2025 | Solidity                  | 1 High 1 Low            |
-| R*** Smart Contract Audit                        |  2025 | Solidity                  | 2 Critical 1 High 2 Medium          |
-| O******* *** ****** Smart Contract Audit                        |  2025 | Solidity                  | 1 Low            |
-| S***** Audit                        |  2025 | Move, Sui                  | 2 Critical            |
-| O******** Smart Contract Audit                        |  2025 | Solidity                  | 1 Medium            |
+| Contest | Date | Keywords | Findings |
+| :--- | :--- | :--- | :--- |
+| **1inch Aqua Bug Bounty** | 2025 | Solidity | 1 Medium |
+| **Reliq Smart Contract Audit Contest** | 2025 | Solidity | 1 High, 1 Low |
+| **Rain Smart Contract Audit Contest** | 2025 | Solidity | 2 Critical, 1 High, 2 Medium |
+| **OpenEden USDO Express Smart Contract Audit Contest** | 2025 | Solidity | 1 Low |
+| **SuiDeX Audit Contest** | 2025 | Move, Sui | 2 Critical |
+| **OpenEden Smart Contract Audit**| 2025 | Solidity | 1 Medium |
 
 ### [Code4rena](https://code4rena.com/@Wojack)
 
@@ -70,6 +70,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings              | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| Current Finance               |  2026 | Move , Sui , DeFi          | 1 High 3 Medium| Findings not yet public |
 | Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High   | Findings not yet public |
 | Hotstuff                      |  2026 | Solidity , bridge contract | private  | not publicly available |
 | Aave V4                       |  2026 | Solidity                   | Bonus    | Exceptional Quality Bonus ($555) awarded for high-value architectural improvement reports. |

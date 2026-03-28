@@ -60,7 +60,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| OLAS                          | 2026 | Solidity          | 2 High         | Findings not yet public |
+| OLAS                          | 2026 | Solidity          | 1 High 1 Medium| Findings not yet public |
 | Rujira                        | 2026 | Rust for CosmWasm | 1 Medium 1 Low | Findings not yet public |
 | Brix Money                    | 2025 | Solidity          | 1 Medium 4 Low | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
 | SukukFi                       | 2025 | Solidity          | 1 Medium       | [View Report](https://code4rena.com/audits/2025-11-sukukfi/submissions/S-257) |

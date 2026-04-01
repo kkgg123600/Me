@@ -74,7 +74,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings              | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| Current Finance               |  2026 | Move , Sui , DeFi          | 1 High 3 Medium| Findings not yet public |
+| Current Finance               |  2026 | Move , Sui , DeFi          | 1 High 2 Medium| Findings not yet public |
 | Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High   | Findings not yet public |
 | Hotstuff                      |  2026 | Solidity , bridge contract | private  | not publicly available |
 | Aave V4                       |  2026 | Solidity                   | Bonus    | Exceptional Quality Bonus ($555) awarded for high-value architectural improvement reports. |

@@ -17,6 +17,7 @@
 | **Sherlock** | [Wojack](https://audits.sherlock.xyz/watson/Wojack) |
 | **Hackenproof** | [Wojack](https://hackenproof.com/hackers/Wojack) |
 | **CodeHawks** | [Wojack0x0](https://profiles.cyfrin.io/u/wojack0x0) |
+| **Cantina** | [kkgg123600](https://cantina.xyz/u/Kkgg123600) |
 
 ---
 
@@ -56,10 +57,18 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | **SuiDeX Audit Contest** | 2025 | Move, Sui | 2 Critical |
 | **OpenEden Smart Contract Audit**| 2025 | Solidity | 1 Medium |
 
+
+### [Cantina](https://cantina.xyz/u/Kkgg123600)
+
+| Contest                       | Date     | Keywords   | Findings             | Report Link |
+| ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| Revert Finance                | 2026 | Solidity      | 1 High 1 Medium | not publicly available |
+
 ### [Code4rena](https://code4rena.com/@Wojack)
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| Injective Peggy Bridge        | 2026 | Solidity, Go      | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-injective-peggy-bridge/submissions/S-289) |
 | OLAS                          | 2026 | Solidity          | 1 High 1 Medium| [View Report](https://code4rena.com/audits/2026-01-olas/submissions/S-183) |
 | Rujira                        | 2026 | Rust for CosmWasm | 2 Medium 1 Low | [View Report](https://code4rena.com/audits/2025-12-rujira/submissions/S-113) |
 | Brix Money                    | 2025 | Solidity          | 1 Medium 4 Low | [View Report](https://code4rena.com/audits/2025-11-brix-money/submissions/S-202) |
@@ -68,7 +77,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Reflector V3                  | 2025 | Rust for CosmWasm | 1 High 1 Medium| [View Report](https://code4rena.com/audits/2025-10-reflector-v3/submissions/S-110) |
 | Covenant                      | 2025 | Solidity          | 1 Low          | [View Report](https://code4rena.com/audits/2025-10-covenant/submissions/S-60) |
 | Hybra Finance                 | 2025 | Solidity          | 1 Medium 3 Low | [View Report](http://code4rena.com/audits/2025-10-hybra-finance/submissions/S-221) |
-| Flare - FAsset                | 2025 | Solidity , DeFi | 1 Low            | [View Report](https://code4rena.com/audits/2025-08-flare-fasset/submissions/S-43) |
+| Flare - FAsset                | 2025 | Solidity , DeFi   | 1 Low          | [View Report](https://code4rena.com/audits/2025-08-flare-fasset/submissions/S-43) |
 
 ### [Sherlock](https://audits.sherlock.xyz/watson/Wojack)
 

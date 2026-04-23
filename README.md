@@ -62,12 +62,13 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| Revert Finance                | 2026 | Solidity      | 1 High 1 Medium | not publicly available |
+| Revert Finance                | 2026 | Solidity      |  2 Medium | not publicly available |
 
 ### [Code4rena](https://code4rena.com/@Wojack)
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| Jupiter Lend                  | 2026 | Rust              | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-jupiter-lend/submissions/S-446) |
 | Injective Peggy Bridge        | 2026 | Solidity, Go      | 1 Low          | [View Report](https://code4rena.com/audits/2026-02-injective-peggy-bridge/submissions/S-289) |
 | OLAS                          | 2026 | Solidity          | 1 High 1 Medium| [View Report](https://code4rena.com/audits/2026-01-olas/submissions/S-183) |
 | Rujira                        | 2026 | Rust for CosmWasm | 2 Medium 1 Low | [View Report](https://code4rena.com/audits/2025-12-rujira/submissions/S-113) |
@@ -84,7 +85,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 | Contest                       | Date     | Keywords   | Findings              | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
 | Current Finance               |  2026 | Move , Sui , DeFi          | 1 High 2 Medium| [View Report](https://audits.sherlock.xyz/watson/Wojack)|
-| Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High         | Findings not yet public|
+| Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High         | [View Report](https://audits.sherlock.xyz/watson/Wojack)|
 | OpenCover Insured Vaults      |  2026 | Solidity , DeFi , Vault    | private        | not publicly available |
 | Hotstuff                      |  2026 | Solidity , bridge contract | private        | not publicly available |
 | Flying Tulip                  |  2026 | Solidity , DeFi , lending  | private        | not publicly available |

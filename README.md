@@ -26,7 +26,7 @@
 I am a security researcher with a deep focus on **Invariant Analysis** and securing complex DeFi primitives. My expertise spans across multiple ecosystems:
 
 - **Solidity** : EVM (DeFi, AMMs, Lending, Bridge, Options, etc).
-- **Rust** : /CosmWasm.
+- **Rust** : Solana/CosmWasm.
 - **Move** : Sui/Aptos.
 - **Python** : Vyper
 
@@ -62,7 +62,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings             | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
-| Revert Finance                | 2026 | Solidity      |  2 Medium | not publicly available |
+| Revert Finance                | 2026 | Solidity      |  1 Medium 1 Low | [View Report](https://cantina.xyz/u/Kkgg123600) |
 
 ### [Code4rena](https://code4rena.com/@Wojack)
 

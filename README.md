@@ -86,6 +86,7 @@ I have completed security audits for **40+ protocols**, uncovering critical vuln
 
 | Contest                       | Date     | Keywords   | Findings              | Report Link |
 | ----------------------------- | -------- | ----------------------- | -------- | -------- |
+| Metric | 2026 | Solidity, DEX   | 1 Medium | [View Report](https://audits.sherlock.xyz/watson/Wojack) |
 | Current Finance               |  2026 | Move , Sui , DeFi          | 1 High 2 Medium| [View Report](https://audits.sherlock.xyz/watson/Wojack)|
 | Fluid DEX v2                  |  2026 | Solidity , lending , DEX   | 1 High         | [View Report](https://audits.sherlock.xyz/watson/Wojack)|
 | OpenCover Insured Vaults      |  2026 | Solidity , DeFi , Vault    | private        | not publicly available |
